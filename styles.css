@@ -534,7 +534,7 @@ iframe {
     
     flex-direction: column;
     width: 70%;
-    padding: 50px 50px;
+    padding: 25px 25px;
     background: linear-gradient(to right, rgba(255, 0, 0, 0.488), rgba(255, 213, 0, 0.563));
     backdrop-filter: blur(2px);
     border-radius: 20px;
@@ -548,7 +548,7 @@ iframe {
     align-items: center;
     
 }
-video {
+iframe {
     width: 600px;
     height: 300px;
     margin-top: 15px;
@@ -567,7 +567,7 @@ video {
         margin-top: 90px;
         z-index: 0;
     }
-    video {
+    iframe {
         width: 270px;
         height: 150px;
     }
